@@ -23,6 +23,14 @@
       "compressed": true,
       "placeholder_path": "./photos/BGE Contemporary Art Projects/SIG_5271.placeholder.jpg",
       "path": "./photos/BGE Contemporary Art Projects/SIG_5271.jpg"
+    },
+    {
+      "height": 563,
+      "compressed_path": "./photos/BGE Contemporary Art Projects/image.min.jpg",
+      "width": 800,
+      "compressed": true,
+      "placeholder_path": "./photos/BGE Contemporary Art Projects/image.placeholder.jpg",
+      "path": "./photos/BGE Contemporary Art Projects/image.jpg"
     }
   ]
 }
