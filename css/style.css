@@ -1,12 +1,11 @@
 body {
   font-family: 'Lato', 'Helvetica', 'Verdana', sans-serif;
-  width: 1200px;
 }
 
 #container {
   margin: 0 auto;
   max-width: 1000px;
-  width: 90%;
+  width: 1200px;
 }
 
 .header {
