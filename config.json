@@ -1,12 +1,20 @@
 {
   "BGE Contemporary Art Galleri": [
     {
-      "height": 2202,
-      "compressed_path": "./photos/BGE Contemporary Art Galleri/111320000001.min.jpg",
-      "width": 3303,
-      "compressed": false ,
-      "placeholder_path": "./photos/BGE Contemporary Art Galleri/111320000001.placeholder.jpg",
-      "path": "./photos/BGE Contemporary Art Galleri/111320000001.jpg"
+      "height": 2146,
+      "compressed_path": "./photos/BGE Contemporary Art Galleri/111420000010.min.jpg",
+      "width": 5272,
+      "compressed": true,
+      "placeholder_path": "./photos/BGE Contemporary Art Galleri/111420000010.placeholder.jpg",
+      "path": "./photos/BGE Contemporary Art Galleri/111420000010.jpg"
+    },
+    {
+      "height": 3648,
+      "compressed_path": "./photos/BGE Contemporary Art Galleri/111420000001.min.jpg",
+      "width": 5472,
+      "compressed": true,
+      "placeholder_path": "./photos/BGE Contemporary Art Galleri/111420000001.placeholder.jpg",
+      "path": "./photos/BGE Contemporary Art Galleri/111420000001.jpg"
     },
     {
       "height": 2729,
@@ -47,6 +55,14 @@
       "compressed": true,
       "placeholder_path": "./photos/BGE Contemporary Art Galleri/111320000004.placeholder.jpg",
       "path": "./photos/BGE Contemporary Art Galleri/111320000004.jpg"
+    },
+    {
+      "height": 3229,
+      "compressed_path": "./photos/BGE Contemporary Art Galleri/111420000009.min.jpg",
+      "width": 4705,
+      "compressed": true,
+      "placeholder_path": "./photos/BGE Contemporary Art Galleri/111420000009.placeholder.jpg",
+      "path": "./photos/BGE Contemporary Art Galleri/111420000009.jpg"
     },
     {
       "height": 3648,
