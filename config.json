@@ -6,7 +6,7 @@
       "height": 3024,
       "path": "./photos/Activity/IMG_4806.jpeg",
       "compressed_path": "./photos/Activity/IMG_4806.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/IMG_4806.placeholder.jpeg"
     }
   ],
