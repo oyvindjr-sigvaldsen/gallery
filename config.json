@@ -1,3 +1,332 @@
 {
-  "Creativity": []
+  "Creativity": [
+    {
+      "width": 2406,
+      "height": 3648,
+      "path": "./photos/Creativity/ALC_21.jpg",
+      "compressed_path": "./photos/Creativity/ALC_21.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_21.placeholder.jpg"
+    },
+    {
+      "width": 2556,
+      "height": 3257,
+      "path": "./photos/Creativity/ALC_20.jpg",
+      "compressed_path": "./photos/Creativity/ALC_20.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_20.placeholder.jpg"
+    },
+    {
+      "width": 5472,
+      "height": 3648,
+      "path": "./photos/Creativity/ALC_18.jpg",
+      "compressed_path": "./photos/Creativity/ALC_18.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_18.placeholder.jpg"
+    },
+    {
+      "width": 5472,
+      "height": 3648,
+      "path": "./photos/Creativity/ALC_19.jpg",
+      "compressed_path": "./photos/Creativity/ALC_19.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_19.placeholder.jpg"
+    },
+    {
+      "width": 5472,
+      "height": 3648,
+      "path": "./photos/Creativity/ALC_010.jpg",
+      "compressed_path": "./photos/Creativity/ALC_010.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_010.placeholder.jpg"
+    },
+    {
+      "width": 5472,
+      "height": 3648,
+      "path": "./photos/Creativity/ALC_011.jpg",
+      "compressed_path": "./photos/Creativity/ALC_011.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_011.placeholder.jpg"
+    },
+    {
+      "width": 5472,
+      "height": 3648,
+      "path": "./photos/Creativity/ALC_007.jpg",
+      "compressed_path": "./photos/Creativity/ALC_007.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_007.placeholder.jpg"
+    },
+    {
+      "width": 5472,
+      "height": 3648,
+      "path": "./photos/Creativity/ALC_013.jpg",
+      "compressed_path": "./photos/Creativity/ALC_013.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_013.placeholder.jpg"
+    },
+    {
+      "width": 5472,
+      "height": 3648,
+      "path": "./photos/Creativity/ALC_012.jpg",
+      "compressed_path": "./photos/Creativity/ALC_012.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_012.placeholder.jpg"
+    },
+    {
+      "width": 5472,
+      "height": 3648,
+      "path": "./photos/Creativity/ALC_006.jpg",
+      "compressed_path": "./photos/Creativity/ALC_006.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_006.placeholder.jpg"
+    },
+    {
+      "width": 5472,
+      "height": 3648,
+      "path": "./photos/Creativity/ALC_016.jpg",
+      "compressed_path": "./photos/Creativity/ALC_016.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_016.placeholder.jpg"
+    },
+    {
+      "width": 5760,
+      "height": 3840,
+      "path": "./photos/Creativity/ALC_017.jpg",
+      "compressed_path": "./photos/Creativity/ALC_017.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_017.placeholder.jpg"
+    },
+    {
+      "width": 5472,
+      "height": 3648,
+      "path": "./photos/Creativity/ALC_003.jpg",
+      "compressed_path": "./photos/Creativity/ALC_003.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_003.placeholder.jpg"
+    },
+    {
+      "width": 5472,
+      "height": 3648,
+      "path": "./photos/Creativity/ALC_015.jpg",
+      "compressed_path": "./photos/Creativity/ALC_015.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_015.placeholder.jpg"
+    },
+    {
+      "width": 5472,
+      "height": 3648,
+      "path": "./photos/Creativity/ALC_014.jpg",
+      "compressed_path": "./photos/Creativity/ALC_014.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_014.placeholder.jpg"
+    },
+    {
+      "width": 5472,
+      "height": 3648,
+      "path": "./photos/Creativity/_01.jpg",
+      "compressed_path": "./photos/Creativity/_01.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/_01.placeholder.jpg"
+    },
+    {
+      "width": 5472,
+      "height": 3648,
+      "path": "./photos/Creativity/_02.jpg",
+      "compressed_path": "./photos/Creativity/_02.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/_02.placeholder.jpg"
+    },
+    {
+      "width": 5472,
+      "height": 3648,
+      "path": "./photos/Creativity/_03.jpg",
+      "compressed_path": "./photos/Creativity/_03.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/_03.placeholder.jpg"
+    },
+    {
+      "width": 2620,
+      "height": 3648,
+      "path": "./photos/Creativity/_07.jpg",
+      "compressed_path": "./photos/Creativity/_07.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/_07.placeholder.jpg"
+    },
+    {
+      "width": 5760,
+      "height": 3840,
+      "path": "./photos/Creativity/ALC_022.jpg",
+      "compressed_path": "./photos/Creativity/ALC_022.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_022.placeholder.jpg"
+    },
+    {
+      "width": 2878,
+      "height": 3647,
+      "path": "./photos/Creativity/_06.jpg",
+      "compressed_path": "./photos/Creativity/_06.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/_06.placeholder.jpg"
+    },
+    {
+      "width": 4512,
+      "height": 3151,
+      "path": "./photos/Creativity/_04.jpg",
+      "compressed_path": "./photos/Creativity/_04.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/_04.placeholder.jpg"
+    },
+    {
+      "width": 5760,
+      "height": 3840,
+      "path": "./photos/Creativity/ALC_020.jpg",
+      "compressed_path": "./photos/Creativity/ALC_020.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_020.placeholder.jpg"
+    },
+    {
+      "width": 5472,
+      "height": 3648,
+      "path": "./photos/Creativity/ALC_008.jpg",
+      "compressed_path": "./photos/Creativity/ALC_008.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_008.placeholder.jpg"
+    },
+    {
+      "width": 5472,
+      "height": 3648,
+      "path": "./photos/Creativity/ALC_009.jpg",
+      "compressed_path": "./photos/Creativity/ALC_009.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_009.placeholder.jpg"
+    },
+    {
+      "width": 5760,
+      "height": 3840,
+      "path": "./photos/Creativity/ALC_021.jpg",
+      "compressed_path": "./photos/Creativity/ALC_021.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_021.placeholder.jpg"
+    },
+    {
+      "width": 3358,
+      "height": 925,
+      "path": "./photos/Creativity/_05.jpg",
+      "compressed_path": "./photos/Creativity/_05.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/_05.placeholder.jpg"
+    },
+    {
+      "width": 5472,
+      "height": 3648,
+      "path": "./photos/Creativity/ALC_14.jpg",
+      "compressed_path": "./photos/Creativity/ALC_14.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_14.placeholder.jpg"
+    },
+    {
+      "width": 5472,
+      "height": 3648,
+      "path": "./photos/Creativity/ALC_15.jpg",
+      "compressed_path": "./photos/Creativity/ALC_15.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_15.placeholder.jpg"
+    },
+    {
+      "width": 5472,
+      "height": 3648,
+      "path": "./photos/Creativity/ALC_01.jpg",
+      "compressed_path": "./photos/Creativity/ALC_01.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_01.placeholder.jpg"
+    },
+    {
+      "width": 5472,
+      "height": 3648,
+      "path": "./photos/Creativity/ALC_17.jpg",
+      "compressed_path": "./photos/Creativity/ALC_17.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_17.placeholder.jpg"
+    },
+    {
+      "width": 5472,
+      "height": 3648,
+      "path": "./photos/Creativity/ALC_03.jpg",
+      "compressed_path": "./photos/Creativity/ALC_03.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_03.placeholder.jpg"
+    },
+    {
+      "width": 4385,
+      "height": 3019,
+      "path": "./photos/Creativity/ALC_02.jpg",
+      "compressed_path": "./photos/Creativity/ALC_02.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_02.placeholder.jpg"
+    },
+    {
+      "width": 5472,
+      "height": 3648,
+      "path": "./photos/Creativity/ALC_16.jpg",
+      "compressed_path": "./photos/Creativity/ALC_16.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_16.placeholder.jpg"
+    },
+    {
+      "width": 5370,
+      "height": 2206,
+      "path": "./photos/Creativity/ALC_12.jpg",
+      "compressed_path": "./photos/Creativity/ALC_12.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_12.placeholder.jpg"
+    },
+    {
+      "width": 3849,
+      "height": 3382,
+      "path": "./photos/Creativity/ALC_06.jpg",
+      "compressed_path": "./photos/Creativity/ALC_06.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_06.placeholder.jpg"
+    },
+    {
+      "width": 2620,
+      "height": 3648,
+      "path": "./photos/Creativity/ALC_07.jpg",
+      "compressed_path": "./photos/Creativity/ALC_07.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_07.placeholder.jpg"
+    },
+    {
+      "width": 5472,
+      "height": 2548,
+      "path": "./photos/Creativity/ALC_13.jpg",
+      "compressed_path": "./photos/Creativity/ALC_13.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_13.placeholder.jpg"
+    },
+    {
+      "width": 3849,
+      "height": 3382,
+      "path": "./photos/Creativity/ALC_05.jpg",
+      "compressed_path": "./photos/Creativity/ALC_05.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_05.placeholder.jpg"
+    },
+    {
+      "width": 5412,
+      "height": 2934,
+      "path": "./photos/Creativity/ALC_11.jpg",
+      "compressed_path": "./photos/Creativity/ALC_11.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_11.placeholder.jpg"
+    },
+    {
+      "width": 3610,
+      "height": 2016,
+      "path": "./photos/Creativity/ALC_04.jpg",
+      "compressed_path": "./photos/Creativity/ALC_04.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/ALC_04.placeholder.jpg"
+    }
+  ]
 }
