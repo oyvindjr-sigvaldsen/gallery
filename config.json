@@ -1,12 +1,21 @@
 {
-  "Creativity": [],
+  "Creativity": [
+    {
+      "width": 1130,
+      "height": 2102,
+      "path": "./photos/Creativity/3IMG_00.jpeg",
+      "compressed_path": "./photos/Creativity/3IMG_00.min.jpeg",
+      "compressed": true,
+      "placeholder_path": "./photos/Creativity/3IMG_00.placeholder.jpeg"
+    }
+  ],
   "Activity": [
     {
       "width": 1130,
       "height": 2102,
       "path": "./photos/Activity/16IMG_00.jpeg",
       "compressed_path": "./photos/Activity/16IMG_00.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/16IMG_00.placeholder.jpeg"
     },
     {
@@ -14,7 +23,7 @@
       "height": 2208,
       "path": "./photos/Activity/21IMG_00.jpeg",
       "compressed_path": "./photos/Activity/21IMG_00.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/21IMG_00.placeholder.jpeg"
     },
     {
@@ -22,7 +31,7 @@
       "height": 2208,
       "path": "./photos/Activity/5IMG_00.jpeg",
       "compressed_path": "./photos/Activity/5IMG_00.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/5IMG_00.placeholder.jpeg"
     },
     {
@@ -30,7 +39,7 @@
       "height": 2102,
       "path": "./photos/Activity/30IMG_00.jpeg",
       "compressed_path": "./photos/Activity/30IMG_00.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/30IMG_00.placeholder.jpeg"
     },
     {
@@ -38,7 +47,7 @@
       "height": 3024,
       "path": "./photos/Activity/IMG_4806.jpeg",
       "compressed_path": "./photos/Activity/IMG_4806.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/IMG_4806.placeholder.jpeg"
     },
     {
@@ -46,7 +55,7 @@
       "height": 2208,
       "path": "./photos/Activity/8IMG_00.jpeg",
       "compressed_path": "./photos/Activity/8IMG_00.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/8IMG_00.placeholder.jpeg"
     },
     {
@@ -54,7 +63,7 @@
       "height": 2102,
       "path": "./photos/Activity/29IMG_00.jpeg",
       "compressed_path": "./photos/Activity/29IMG_00.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/29IMG_00.placeholder.jpeg"
     },
     {
@@ -62,7 +71,7 @@
       "height": 2208,
       "path": "./photos/Activity/35IMG_00.jpeg",
       "compressed_path": "./photos/Activity/35IMG_00.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/35IMG_00.placeholder.jpeg"
     },
     {
@@ -70,7 +79,7 @@
       "height": 2208,
       "path": "./photos/Activity/24IMG_00.jpeg",
       "compressed_path": "./photos/Activity/24IMG_00.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/24IMG_00.placeholder.jpeg"
     },
     {
@@ -78,7 +87,7 @@
       "height": 2102,
       "path": "./photos/Activity/13IMG_00.jpeg",
       "compressed_path": "./photos/Activity/13IMG_00.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/13IMG_00.placeholder.jpeg"
     },
     {
@@ -86,7 +95,7 @@
       "height": 2102,
       "path": "./photos/Activity/7IMG_00.jpeg",
       "compressed_path": "./photos/Activity/7IMG_00.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/7IMG_00.placeholder.jpeg"
     },
     {
@@ -94,7 +103,7 @@
       "height": 2102,
       "path": "./photos/Activity/23IMG_00.jpeg",
       "compressed_path": "./photos/Activity/23IMG_00.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/23IMG_00.placeholder.jpeg"
     },
     {
@@ -102,7 +111,7 @@
       "height": 2102,
       "path": "./photos/Activity/14IMG_00.jpeg",
       "compressed_path": "./photos/Activity/14IMG_00.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/14IMG_00.placeholder.jpeg"
     },
     {
@@ -110,7 +119,7 @@
       "height": 2102,
       "path": "./photos/Activity/32IMG_00.jpeg",
       "compressed_path": "./photos/Activity/32IMG_00.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/32IMG_00.placeholder.jpeg"
     },
     {
@@ -118,7 +127,7 @@
       "height": 2102,
       "path": "./photos/Activity/19IMG_00.jpeg",
       "compressed_path": "./photos/Activity/19IMG_00.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/19IMG_00.placeholder.jpeg"
     },
     {
@@ -126,7 +135,7 @@
       "height": 2102,
       "path": "./photos/Activity/2IMG_00.jpeg",
       "compressed_path": "./photos/Activity/2IMG_00.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/2IMG_00.placeholder.jpeg"
     },
     {
@@ -134,7 +143,7 @@
       "height": 2208,
       "path": "./photos/Activity/11IMG_00.jpeg",
       "compressed_path": "./photos/Activity/11IMG_00.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/11IMG_00.placeholder.jpeg"
     },
     {
@@ -142,7 +151,7 @@
       "height": 2102,
       "path": "./photos/Activity/26IMG_00.jpeg",
       "compressed_path": "./photos/Activity/26IMG_00.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/26IMG_00.placeholder.jpeg"
     },
     {
@@ -150,7 +159,7 @@
       "height": 2102,
       "path": "./photos/Activity/28IMG_00.jpeg",
       "compressed_path": "./photos/Activity/28IMG_00.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/28IMG_00.placeholder.jpeg"
     },
     {
@@ -158,7 +167,7 @@
       "height": 2208,
       "path": "./photos/Activity/34IMG_00.jpeg",
       "compressed_path": "./photos/Activity/34IMG_00.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/34IMG_00.placeholder.jpeg"
     },
     {
@@ -166,7 +175,7 @@
       "height": 2102,
       "path": "./photos/Activity/25IMG_00.jpeg",
       "compressed_path": "./photos/Activity/25IMG_00.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/25IMG_00.placeholder.jpeg"
     },
     {
@@ -174,7 +183,7 @@
       "height": 2102,
       "path": "./photos/Activity/12IMG_00.jpeg",
       "compressed_path": "./photos/Activity/12IMG_00.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/12IMG_00.placeholder.jpeg"
     },
     {
@@ -182,7 +191,7 @@
       "height": 2208,
       "path": "./photos/Activity/17IMG_00.jpeg",
       "compressed_path": "./photos/Activity/17IMG_00.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/17IMG_00.placeholder.jpeg"
     },
     {
@@ -190,7 +199,7 @@
       "height": 2114,
       "path": "./photos/Activity/20IMG_00.jpeg",
       "compressed_path": "./photos/Activity/20IMG_00.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/20IMG_00.placeholder.jpeg"
     },
     {
@@ -198,7 +207,7 @@
       "height": 2208,
       "path": "./photos/Activity/4IMG_00.jpeg",
       "compressed_path": "./photos/Activity/4IMG_00.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/4IMG_00.placeholder.jpeg"
     },
     {
@@ -206,7 +215,7 @@
       "height": 2102,
       "path": "./photos/Activity/9IMG_00.jpeg",
       "compressed_path": "./photos/Activity/9IMG_00.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/9IMG_00.placeholder.jpeg"
     },
     {
@@ -214,23 +223,15 @@
       "height": 2102,
       "path": "./photos/Activity/31IMG_00.jpeg",
       "compressed_path": "./photos/Activity/31IMG_00.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/31IMG_00.placeholder.jpeg"
-    },
-    {
-      "width": 1130,
-      "height": 2102,
-      "path": "./photos/Activity/3IMG_00.jpeg",
-      "compressed_path": "./photos/Activity/3IMG_00.min.jpeg",
-      "compressed": false,
-      "placeholder_path": "./photos/Activity/3IMG_00.placeholder.jpeg"
     },
     {
       "width": 1130,
       "height": 2102,
       "path": "./photos/Activity/10IMG_00.jpeg",
       "compressed_path": "./photos/Activity/10IMG_00.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/10IMG_00.placeholder.jpeg"
     },
     {
@@ -238,7 +239,7 @@
       "height": 2208,
       "path": "./photos/Activity/27IMG_00.jpeg",
       "compressed_path": "./photos/Activity/27IMG_00.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/27IMG_00.placeholder.jpeg"
     },
     {
@@ -246,7 +247,7 @@
       "height": 2208,
       "path": "./photos/Activity/6IMG_00.jpeg",
       "compressed_path": "./photos/Activity/6IMG_00.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/6IMG_00.placeholder.jpeg"
     },
     {
@@ -254,7 +255,7 @@
       "height": 2208,
       "path": "./photos/Activity/22IMG_00.jpeg",
       "compressed_path": "./photos/Activity/22IMG_00.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/22IMG_00.placeholder.jpeg"
     },
     {
@@ -262,7 +263,7 @@
       "height": 2208,
       "path": "./photos/Activity/15IMG_00.jpeg",
       "compressed_path": "./photos/Activity/15IMG_00.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/15IMG_00.placeholder.jpeg"
     },
     {
@@ -270,7 +271,7 @@
       "height": 2208,
       "path": "./photos/Activity/33IMG_00.jpeg",
       "compressed_path": "./photos/Activity/33IMG_00.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/33IMG_00.placeholder.jpeg"
     },
     {
@@ -278,7 +279,7 @@
       "height": 2102,
       "path": "./photos/Activity/18IMG_00.jpeg",
       "compressed_path": "./photos/Activity/18IMG_00.min.jpeg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Activity/18IMG_00.placeholder.jpeg"
     }
   ],
